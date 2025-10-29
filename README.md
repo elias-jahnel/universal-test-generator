@@ -58,3 +58,10 @@ Dann testet der Generator sich selbst.
 Ergebnis: philosophische Leere und vermutlich ein Stacktrace, der Nietzsche hätte gefallen.
 
 ---
+
+### v1.1 – Verbesserungen
+- CLI-Unterstützung: Klasse kann als Argument angegeben werden
+- Erweiterte Typ-Erkennung (boolean, Wrapper)
+- Farbige Konsolenausgabe
+- Verbesserte Fehlerdarstellung bei Exceptions
+
